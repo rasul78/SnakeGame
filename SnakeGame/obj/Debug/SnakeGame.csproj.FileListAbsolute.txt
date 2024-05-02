@@ -1,0 +1,15 @@
+C:\Users\Rasul\source\repos\SnakeGame\SnakeGame\bin\Debug\SnakeGame.exe.config
+C:\Users\Rasul\source\repos\SnakeGame\SnakeGame\bin\Debug\SnakeGame.exe
+C:\Users\Rasul\source\repos\SnakeGame\SnakeGame\bin\Debug\SnakeGame.pdb
+C:\Users\Rasul\source\repos\SnakeGame\SnakeGame\obj\Debug\SnakeGame.csproj.AssemblyReference.cache
+C:\Users\Rasul\source\repos\SnakeGame\SnakeGame\obj\Debug\MainWindow.g.cs
+C:\Users\Rasul\source\repos\SnakeGame\SnakeGame\obj\Debug\App.g.cs
+C:\Users\Rasul\source\repos\SnakeGame\SnakeGame\obj\Debug\SnakeGame_MarkupCompile.cache
+C:\Users\Rasul\source\repos\SnakeGame\SnakeGame\obj\Debug\SnakeGame_MarkupCompile.lref
+C:\Users\Rasul\source\repos\SnakeGame\SnakeGame\obj\Debug\MainWindow.baml
+C:\Users\Rasul\source\repos\SnakeGame\SnakeGame\obj\Debug\SnakeGame.g.resources
+C:\Users\Rasul\source\repos\SnakeGame\SnakeGame\obj\Debug\SnakeGame.Properties.Resources.resources
+C:\Users\Rasul\source\repos\SnakeGame\SnakeGame\obj\Debug\SnakeGame.csproj.GenerateResource.cache
+C:\Users\Rasul\source\repos\SnakeGame\SnakeGame\obj\Debug\SnakeGame.csproj.CoreCompileInputs.cache
+C:\Users\Rasul\source\repos\SnakeGame\SnakeGame\obj\Debug\SnakeGame.exe
+C:\Users\Rasul\source\repos\SnakeGame\SnakeGame\obj\Debug\SnakeGame.pdb
